@@ -6,7 +6,7 @@
     {
       "label": "Jam and Jax NPC Index: Monstrous Templates",
       "type": "Item",
-      "name": "item",
+      "name": "monstrous",
       "path": "/packs/monstrous.db",
       "system": "pf2e",
       "private": false,
