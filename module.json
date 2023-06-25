@@ -1,10 +1,10 @@
 {
-  "title": "Jam and Jax NPC Index: Undead Templates",
-  "description": "Add these spooky templates to any of the Jam and Jax NPCs or vanilla bestiary creatures to turn them into the Undead. Update to directions: Drag in the main template (i.e. Vampire Template) to autopopulate other feats based on creature level.",
-  "version": "1.25",
+  "title": "Jam and Jax NPC Index: Monstrous Templates",
+  "description": "tbd",
+  "version": "0.02",
   "packs": [
     {
-      "label": "Jam and Jax NPC Index: Undead Templates",
+      "label": "Jam and Jax NPC Index: Monstrous Templates",
       "type": "Item",
       "name": "item",
       "path": "/packs/item.db",
@@ -13,16 +13,7 @@
       "flags": {}
     },
     {
-      "label": "Jam and Jax Undead Template Examples",
-      "type": "Actor",
-      "name": "undead",
-      "path": "/packs/undead.db",
-      "system": "pf2e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Jam and Jax Undead Ability DC Table",
+      "label": "Jam and Jax Monstrous Ability DC Table",
       "type": "JournalEntry",
       "name": "journals",
       "path": "/packs/journals.db",
@@ -31,10 +22,10 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/Jax-PF2/umd3-d",
-  "manifest": "https://raw.githubusercontent.com/Jax-PF2/umd3-d/master/module.json",
-  "download": "https://github.com/Jax-PF2/umd3-d/archive/refs/heads/main.zip",
-  "id": "jam-and-jax-undead-templates",
+  "url": "https://github.com/Jax-PF2/mon5trou3",
+  "manifest": "https://raw.githubusercontent.com/Jax-PF2/mon5trou3/master/module.json",
+  "download": "https://github.com/Jax-PF2/mon5trou3/archive/refs/heads/main.zip",
+  "id": "jam-and-jax-monstrous-templates",
   "authors": [
     {
       "name": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
