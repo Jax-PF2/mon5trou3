@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax NPC Index: Monstrous Templates",
-  "description": "Mashup these medusas, giants, werewolves, and the like with NPCs like clerics, bards, and champions to create new possibilities.",
-  "version": "0.02",
+  "description": "Mashup medusas, giants, werewolves with clerics, bards, and champions to your heart's delight. Combine with module with others from the Jam and Jax NPC Index product line.",
+  "version": "0.01",
   "packs": [
     {
       "label": "Jam and Jax NPC Index: Monstrous Templates",
@@ -12,7 +12,7 @@
       "private": false,
       "flags": {}
     },
-       {
+    {
       "label": "Jam and Jax Monstrous Ability DC Table",
       "type": "JournalEntry",
       "name": "journals",
