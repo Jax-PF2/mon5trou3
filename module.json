@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Index: Monstrous Templates",
   "description": "Mashup medusas, giants, werewolves with clerics, bards, and champions to your heart's delight. Combine monster templates with NPCs from the Jam and Jax NPC Index product line.",
-  "version": "0.5",
+  "version": "0.51",
   "packs": [
     {
       "label": "Jam and Jax NPC Index: Monstrous Templates",
@@ -13,7 +13,7 @@
       "flags": {}
     },
     {
-      "label": "Jam and Jax Undead Monstrous Bestiary",
+      "label": "Jam and Jax Monstrous Bestiary",
       "type": "Actor",
       "name": "monsters",
       "path": "/packs/monsters.db",
