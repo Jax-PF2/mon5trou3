@@ -1,2 +1,2 @@
 NPC Index: Monstrous Templates  
-v0.01  Started work 6/25/23  
+v1.00  Release version complete 7/14/23 
